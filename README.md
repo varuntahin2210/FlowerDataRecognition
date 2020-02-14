@@ -1,4 +1,5 @@
-# FlowerDataRecognition
+## FlowerDataRecognition
+#### Libraries used: keras, skimage, os, glob, numpy, matplotlib, random, resnet, numpy, 
 
 Flower classification: First, we will see how to classify flowers them into “roses” and “daisies”. This is a toy dataset and its purpose is to introduce you to the key concepts and methodologies. In this session, you will learn:
 
